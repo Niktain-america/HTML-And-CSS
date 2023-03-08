@@ -1,0 +1,10 @@
+BODY{
+		Background-Image:URL("Decisions.jpg");
+	Font-family:Impact
+	}
+H1,H2{
+		Font weight:Bold;
+		Font size:24pt;
+		Color:Red
+	}
+
